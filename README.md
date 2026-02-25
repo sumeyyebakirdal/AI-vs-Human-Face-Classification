@@ -24,8 +24,6 @@ The dataset used in this study is the **Human Faces Dataset** sourced from Kaggl
     * `human/`: 5,000 images of real individuals.
     * `ai/`: 4,936 images of AI-generated faces.
 
-> **Note:** Due to size constraints, the dataset is not included in this repository. Please download it from the link above and place it in the `data/` directory.
-
 ---
 
 ## 📊 Experimental Results
@@ -58,7 +56,12 @@ Randomly selected samples from the test set.
     * Dropout (0.5) to prevent overfitting.
     * Sigmoid output for binary classification.
 3.  **Optimization:** Adam optimizer with Binary Crossentropy loss.
+---
 
+## 📄 Technical Documentation
+For a deep dive into the mathematical model, hyperparameter tuning, and comprehensive literature review, please refer to our full study:
+
+> **[Research Paper (PDF)](docs/AI_vs_Human_Face_Research.pdf)** - *The full technical methodology and detailed analysis are available in the Research Paper (PDF) within the docs/ directory.*
 ---
 
 ## 🚀 Getting Started
