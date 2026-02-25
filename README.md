@@ -65,5 +65,5 @@ Randomly selected samples from the test set.
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YourUsername/AI-vs-Human-Face-Classification.git](https://github.com/YourUsername/AI-vs-Human-Face-Classification.git)
+   git clone [https://github.com/YourUsername/AI-vs-Human-Face-Classification.git](https://github.com/sumeyyebakirdal/AI-vs-Human-Face-Classification.git)
 
