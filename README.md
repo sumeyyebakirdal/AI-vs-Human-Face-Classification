@@ -40,12 +40,13 @@ Based on the experimental findings in the technical paper:
 
 ### Training Visualization
 Below are the training curves and the confusion matrix showing the model's ability to minimize false positives.
-![Accuracy Loss](results/Ekran görüntüsü 2025-03-18 181019.png)
-![Confusion Matrix](results/Ekran görüntüsü 2025-03-18 181041.png)
+![Accuracy Loss](results/accuracy_plot.png)
+![Accuracy Loss](results/loss_plot.png)
+![Confusion Matrix](results/confusion_matrix.png)
 
 ### Sample Predictions
 Randomly selected samples from the test set. 
-![Samples](results/Ekran görüntüsü 2025-04-08 191115.png)
+![Samples](results/prediction_samples.png)
 
 ---
 
