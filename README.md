@@ -36,15 +36,15 @@ Based on the experimental findings in the technical paper:
 | **F1-Score** | Optimized |
 | **Loss** | Minimized via Adam Optimizer |
 
+### Sample Predictions
+Randomly selected samples from the test set. 
+![Samples](results/prediction_samples.png)
+
 ### Training Visualization
 Below are the training curves and the confusion matrix showing the model's ability to minimize false positives.
 ![Accuracy Loss](results/accuracy_plot.png)
 ![Accuracy Loss](results/loss_plot.png)
 ![Confusion Matrix](results/confusion_matrix.png)
-
-### Sample Predictions
-Randomly selected samples from the test set. 
-![Samples](results/prediction_samples.png)
 
 ---
 
@@ -61,7 +61,7 @@ Randomly selected samples from the test set.
 ## 📄 Technical Documentation
 For a deep dive into the mathematical model, hyperparameter tuning, and comprehensive literature review, please refer to our full study:
 
-> **[Research Paper (PDF)](docs/AI_vs_Human_Face_Research.pdf)** - *The full technical methodology and detailed analysis are available in the Research Paper (PDF) within the docs/ directory.*
+> **[Research Paper (PDF)](doc/AI_vs_Human_Face_Research.pdf)** - *The full technical methodology and detailed analysis are available in the Research Paper (PDF) within the docs/ directory.*
 ---
 
 ## 🚀 Getting Started
